@@ -1,0 +1,4 @@
+Options -indexes
+ErrorDocument 404 "<h1>Nothing  Here</h1>href='./index.php'>Go Home<"
+ErrorDocument 403 "<h1>Nice catch</h1>href='./'>Go Home<"
+
